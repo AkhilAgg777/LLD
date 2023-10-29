@@ -7,6 +7,10 @@ public class GenerateTicketRequestDto {
     private Vehicle vehicle;
     private EntryGate entryGate;
 
+//    private Long entryGateId;
+//    private String vehicleNumber;
+//    private VehicleType vehicleType;
+
     public Vehicle getVehicle() {
         return vehicle;
     }
