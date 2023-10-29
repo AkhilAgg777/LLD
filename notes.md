@@ -7,7 +7,7 @@ Client->Controller->Service->Repository<br>
 Use Case:<br>
 Ability to create a ticket<br>
 
-Assignment
+Assignment <br>
 1.)Make GenerateTicketRequestDto only take entry_gate_id and vehicle_type and vehicle_number <br>
  -save the vehicle in the database(VehicleRepository) <br>
 -fetch the gate with that Id(EntryGateRepository) <br>
