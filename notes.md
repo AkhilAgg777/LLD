@@ -9,7 +9,7 @@ Ability to create a ticket
 
 Assignment
 1.)Make GenerateTicketRequestDto only take entry_gate_id and vehicle_type and vehicle_number
- -save the vehicle in the database(VehicleRepository)
+ -save the vehicle in the database(VehicleRepository) (Fine even if you don't implement this)
 -fetch the gate with that Id(EntryGateRepository)
 
 2.)Implement GenerateBill
